@@ -1,0 +1,11 @@
+food_name,calories,protein,cost_rs,diet_type
+Rice,130,2.7,10,0
+Chapati,120,3.5,8,0
+Dal,120,9.0,15,0
+Curd,98,11.0,12,0
+Egg,155,13.0,8,1
+Paneer,265,18.0,35,0
+Chicken,240,27.0,40,2
+Fish,200,22.0,45,2
+Vegetable Curry,90,4.0,10,0
+Sprouts,150,12.0,20,0
